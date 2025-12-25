@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+nltk
+spacy
+matplotlib
+tweepy
+python-telegram-bot
+joblib
+tqdm
+imbalanced-learn
+seaborn
