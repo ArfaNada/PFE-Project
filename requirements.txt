@@ -1,11 +1,30 @@
-pandas
-scikit-learn
-nltk
-spacy
-matplotlib
-tweepy
-python-telegram-bot
-joblib
-tqdm
-imbalanced-learn
-seaborn
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Natural Language Processing
+nltk>=3.8.0
+textblob>=0.17.0
+nrclex>=3.0.0
+demoji>=1.1.0
+emoji>=2.0.0
+
+# Data Collection
+tweepy>=4.14.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# Optional (uncomment if needed)
+# spacy>=3.5.0
+# python-telegram-bot>=20.0
+# joblib>=1.2.0
+# imbalanced-learn>=0.10.0
