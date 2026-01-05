@@ -150,4 +150,4 @@ See [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
-This is a research project. For questions or contributions, please open an issue.
+See [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
